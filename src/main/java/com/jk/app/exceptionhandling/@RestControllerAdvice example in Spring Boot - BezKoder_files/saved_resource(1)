@@ -1,0 +1,38 @@
+
+var ftGUID_4214908="455671F99EAAF6";
+var ftConfID_4214908="0";
+var ftParams_4214908="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=bezkoder.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fbezkoder.com%2Fspring-boot-restcontrolleradvice%2F&cachebuster=543474.6315838303";
+var ftKeyword_4214908="";
+var ftCustom_4214908="";
+var ftSection_4214908="";
+var ftSegment_4214908="";
+var ftSegmentList_4214908=[];
+var ftRuleMatch_4214908="0";
+var ftTimestamp_4214908="1598968984";
+var ftGeoC2_4214908="in";
+var ftGeoState_4214908="wb";
+var ftGeoCity_4214908="calcutta";
+var ftISP_4214908="bharat sanchar nigam limited";
+var ftSpeed_4214908="mobile";
+var ftDMA_4214908="356003";
+var ftLong_4214908="87.35";
+var ftLat_4214908="23.53";
+var ftPostal_4214908="700001";
+var ftTimeZone_4214908="530";
+var ftMobileCarrier_4214908="cellone";
+var ftImp4214908 = {};
+ftImp4214908.privacy = "x";
+ftImp4214908.guidAge = "71";
+ftImp4214908.impID = "7352E703-C9E2-23B3-4FAC-267F21015F07";
+ftImp4214908.duid = "FT:455671F99EAAF6";
+
+ftImp4214908.ft_tpplid = "";
+ftImp4214908.ft_c = {};
+ftImp4214908.gdpr = "";
+ftImp4214908.gdpr_consent = "";
+ftImp4214908.gdpr_pd = "";
+ftImp4214908.oob_consent = "";
+ftImp4214908.gdprStoredConsent = "";
+ftImp4214908.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/421/4214908/2776216/js/j-4214908-2776216.js" id="ftscript_m4214908" name="ftscript_m4214908"></scr'+'ipt>');
